@@ -1,0 +1,26 @@
+{
+  "name": "header-parser.js",
+  "version": "1.0.0",
+  "description": "FFC project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefanford/header-parser.git"
+  },
+  "author": "Stefan Savic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefanford/header-parser/issues"
+  },
+  "homepage": "https://github.com/Stefanford/header-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-useragent": "^1.0.12",
+    "ipware": "^1.0.0"
+  }
+}
